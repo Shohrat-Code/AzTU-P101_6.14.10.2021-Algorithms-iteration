@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\ref\Algorithms-2.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\bin\Debug\net5.0\Algorithms-2.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\ref\Algorithms-2.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\6.14.10.2021-Algorithms, iteration\Codes\Algorithms-2\Algorithms-2\obj\Debug\net5.0\Algorithms-2.genruntimeconfig.cache
